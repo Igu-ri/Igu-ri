@@ -1,6 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&color=182B3A$height=200&text=Gyu%20Git&fontAlign=50&stroke=00FF00)
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FIgu-ri&count_bg=%23FFFFFF&title_bg=%182B3A&icon=smugmug.svg&icon_color=%231600FF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%232100FF&title_bg=%23FFFFFF&icon=smugmug.svg&icon_color=%231100FF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 <h3 align="center">💫  Hi, I’m @Igu-ri 💫</h3>
 
 <h3 align="center">📚 Tech Stack 📚</h3>
