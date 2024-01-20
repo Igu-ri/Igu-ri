@@ -28,8 +28,7 @@
 <!---
 Igu-ri/Igu-ri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
---->
-<!---
+
   
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20byeongseok%20GitHub%20(●'◡'●)&animation=twinkling&fontSize=25&fontAlignY=40&fontAlign=70&height=250&desc=Web%20Developer%20Student&rotate=0)
 ---
@@ -167,7 +166,7 @@ You can click the Preview link to take a look at your changes.
 | ------------- | ------------- |
 
 
----
+--->
 
 
 
