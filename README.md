@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&color=182B3A$height=200&text=Gyu%20Git&fontAlign=50&stroke=00FF00)
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%232100FF&title_bg=%23FFFFFF&icon=smugmug.svg&icon_color=%231100FF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FIgu-ri&count_bg=%230002FF&title_bg=%23FFFFFF&icon=smugmug.svg&icon_color=%23004CFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 <h3 align="center">💫  Hi, I’m @Igu-ri 💫</h3>
 
 <h3 align="center">📚 Tech Stack 📚</h3>
@@ -142,12 +142,6 @@ You can click the Preview link to take a look at your changes.
 
 </div>
 </details>
-
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F
-Igu-riim&count_bg=%23B2D5FF&title_bg=%23858486&icon=github.svg&icon_color=%23FFFFFF&title=GitHub&edge_flat=false)](https://github.com/
-Igu-ri)
-
 
 |[![byeongseok's GitHub stats](https://github-readme-stats.vercel.app/api?username=byeongseokim&include_all_commits=true&theme=swift&hide_border=true&count_private=true&locale=kr&disable_animations=false&show_owner=false&&theme=buefyhide_border=true")](https://github.com/byeongseokim)|![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=byeongseokim&langs_count=10&hide=html&layout=compact&custom_title=많이사용되는언어&hide_border=true)
 | ------------- | ------------- |
