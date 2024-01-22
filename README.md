@@ -118,14 +118,8 @@ You can click the Preview link to take a look at your changes.
   
 | Date | Contents | With |
 |:---:|:---:|:---:|
-| 23.07.31 ~ 23.08.11 | React와 SpringBoot를 연동하여 만든 스케쥴 체크 프로그램 | FullStack 개인 프로젝트 |
-| 23.07.10 ~ 23.07.28 | NEVER WEB community site | Spring 팀 프로젝트 |
-| 23.06.12 ~ 23.06.26 | Seoul Festival | JSP 팀 프로젝트 |
-| 23.06.04 ~ 23.06.10 | MVC2 패턴을 이용해 JSP 게시판 만들기 | JSP 개인 프로젝트 |
-| 23.05.15 ~ 23.05.25 | 순수 자바 콘솔 게시판 | 자바 팀 프로젝트 |
-| 23.05.11 ~ 23.05.15 | OracleXE와 자바를 연동하여 게시판 구현 | 자바 개인 프로젝트 |
-| 23.04.12 ~ 23.08.17 | AWS활용 자바 풀스택개발(큐레이팅커머스) 수료 (산대특)| 안산 이젠컴퓨터아카데미 |
-| 16.03 ~ 23.02 | 토목 공학과 학사 졸업 | 청주대학교 |
+| | | |
+
   
 <!-- </div> -->
 
@@ -140,9 +134,9 @@ You can click the Preview link to take a look at your changes.
 #### 👨‍👩‍👦‍👦 Team
 | Project | Adress |
 |---|---|
- |*자바게시판* &nbsp;| https://github.com/byeongseokim/Java_Team_Project                     |
- |*서울페스티벌* &nbsp;| https://github.com/byeongseokim/JSP_Team_Project           |
- |*NEVER WEB community site* &nbsp; |https://github.com/byeongseokim/Fullstack-Project      |
+ |||
+ |||
+ |||
 
 
 
@@ -150,9 +144,9 @@ You can click the Preview link to take a look at your changes.
 
 | Project | Adress |
 |---|---|
-|*자바게시판* &nbsp; | https://github.com/byeongseokim/JavaSoloProject/|
-|*JSP게시판* &nbsp; | https://github.com/byeongseokim/JSP-MVC-model2-Project/|
-|*React+SpringBoot 풀스택* &nbsp; | https://github.com/byeongseokim/Springboot-React-Fullstack-Personalproject|
+|*자바게시판* &nbsp; | |
+|*JSP게시판* &nbsp; | |
+|*React+SpringBoot 풀스택* &nbsp; | |
 
 
 </div>
@@ -164,14 +158,3 @@ You can click the Preview link to take a look at your changes.
 
 |[![byeongseok's GitHub stats](https://github-readme-stats.vercel.app/api?username=byeongseokim&include_all_commits=true&theme=swift&hide_border=true&count_private=true&locale=kr&disable_animations=false&show_owner=false&&theme=buefyhide_border=true")](https://github.com/byeongseokim)|![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=byeongseokim&langs_count=10&hide=html&layout=compact&custom_title=많이사용되는언어&hide_border=true)
 | ------------- | ------------- |
-
-
---->
-
-
-
-<!-- ![Footer](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&animation=twinkling&section=footer) -->
-
-  
-
---->
